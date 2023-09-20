@@ -1,6 +1,9 @@
 ### Ola! eu sou o wallison✌
 
-- 🌱 I’m currently learning  Node.js
+- Desenvolvedor Web
+- Front-end: React.js
+- Back-end: Node.js, Express
+- DB: MongoDB
 
  <div>
   <a href="https://github.com/Wallison-Greg">
