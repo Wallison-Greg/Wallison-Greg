@@ -24,7 +24,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/wallison-gregorio-ba23a922b/" target="_blank">
+  <a href="https://www.linkedin.com/in/wallison-greg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:wallisongregorio2022@gmail.com" target="_blank">
