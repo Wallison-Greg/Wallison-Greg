@@ -1,9 +1,9 @@
 ### Ola! eu sou o wallison✌
 
 - Desenvolvedor Web
-- Front-end: React.js
-- Back-end: Node.js, Express
-- DB: MongoDB
+- Front-end: HTML5, Css3, React.js, Next.js 
+- Back-end: Node.js, Express, TypeScript
+- DB: MongoDB, MySQL
 
  <div>
   <a href="https://github.com/Wallison-Greg">
